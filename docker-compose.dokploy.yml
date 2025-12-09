@@ -13,4 +13,4 @@ services:
         PUB_STRIPE_KEY: ${PUB_STRIPE_KEY:-pk_live_51RDVmAGSxPVad6bQwzVNnbc28nlmzA30krLWk1fefCMpUPiSRPkavMMbGqa8A3lUaOCMlsUEVy2CWDYg0ip3aPpL00ZJlsMkf2}
     restart: unless-stopped
     ports:
-      - 3000
+      - 5173
